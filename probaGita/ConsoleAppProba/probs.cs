@@ -8,5 +8,6 @@ namespace ConsoleAppProba
 {
     class probs
     {
+        public int propba { get; set; }
     }
 }
