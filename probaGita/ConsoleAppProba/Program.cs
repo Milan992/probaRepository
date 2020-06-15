@@ -14,6 +14,9 @@ namespace ConsoleAppProba
             Console.WriteLine("nesto drugo bilo sta");
             Console.WriteLine("treca");
             Console.WriteLine("treca");
+            Console.WriteLine("bilo sta");
+            Console.WriteLine("nesto drugo bilo sta");
+            Console.WriteLine("treca");
         }
     }
 }
