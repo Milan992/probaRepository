@@ -11,6 +11,8 @@ namespace ConsoleAppProba
         static void Main(string[] args)
         {
             Console.WriteLine("moja grana");
+            Console.WriteLine("bilo sta");
+            Console.WriteLine("nesto drugo bilo sta");            
         }
     }
 }
