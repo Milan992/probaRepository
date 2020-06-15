@@ -13,6 +13,7 @@ namespace ConsoleAppProba
             Console.WriteLine("bilo sta");
             Console.WriteLine("nesto drugo bilo sta");
             Console.WriteLine("treca");
+            Console.WriteLine("treca");
         }
     }
 }
